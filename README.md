@@ -32,4 +32,6 @@ In particular, my interests lie in:
 - [Autoencoders, Unsupervised Learning, and Deep Architectures](http://jmlr.csail.mit.edu/proceedings/papers/v27/baldi12a/baldi12a.pdf)
 - [Deep rectifier sparse neural networks](http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf)
 - [Deep Learning with Nonparametric Clustering](http://arxiv.org/abs/1501.03084)
+- [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](http://arxiv.org/abs/1511.07289)
+- [Rectified Linear Units Improve Restricted Boltzmann Machines](http://www.cs.toronto.edu/~fritz/absps/reluICML.pdf)
 - [k-Sparse Autoencoders](http://arxiv.org/pdf/1312.5663v2.pdf)
