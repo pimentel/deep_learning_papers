@@ -29,5 +29,7 @@ In particular, my interests lie in:
 ## theory
 
 - [A Probabilistic Theory of Deep Learning](http://arxiv.org/abs/1504.00641)
+- [Autoencoders, Unsupervised Learning, and Deep Architectures](http://jmlr.csail.mit.edu/proceedings/papers/v27/baldi12a/baldi12a.pdf)
 - [Deep rectifier sparse neural networks](http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf)
+- [Deep Learning with Nonparametric Clustering](http://arxiv.org/abs/1501.03084)
 - [k-Sparse Autoencoders](http://arxiv.org/pdf/1312.5663v2.pdf)
