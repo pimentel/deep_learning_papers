@@ -15,9 +15,11 @@ In particular, my interests lie in:
 
 - [A Probabilistic Theory of Deep Learning](http://arxiv.org/abs/1504.00641)
 - [Deep learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
+- [Representation Learning: A Review and New Perspectives](http://arxiv.org/abs/1206.5538)
 
 ## blogs
 
+- [A Statistical View of Deep Learning](http://blog.shakirm.com/2015/01/a-statistical-view-of-deep-learning-i-recursive-glms/)
 - [colah's blog](http://colah.github.io/)
 
 ## functional annotation
@@ -29,9 +31,10 @@ In particular, my interests lie in:
 
 ## theory
 
+- [A Statistical View of Deep Learning](http://blog.shakirm.com/wp-content/uploads/2015/07/SVDL.pdf)
 - [Autoencoders, Unsupervised Learning, and Deep Architectures](http://jmlr.csail.mit.edu/proceedings/papers/v27/baldi12a/baldi12a.pdf)
 - [Deep rectifier sparse neural networks](http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf)
 - [Deep Learning with Nonparametric Clustering](http://arxiv.org/abs/1501.03084)
 - [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](http://arxiv.org/abs/1511.07289)
-- [Rectified Linear Units Improve Restricted Boltzmann Machines](http://www.cs.toronto.edu/~fritz/absps/reluICML.pdf)
 - [k-Sparse Autoencoders](http://arxiv.org/pdf/1312.5663v2.pdf)
+- [Rectified Linear Units Improve Restricted Boltzmann Machines](http://www.cs.toronto.edu/~fritz/absps/reluICML.pdf)
