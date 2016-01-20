@@ -24,8 +24,10 @@ In particular, my interests lie in:
 
 ## functional annotation
 
-- [ADAGE analysis of publicly available gene expression data collections illuminates Pseudomonas aeruginosa-host interactions](http://biorxiv.org/content/early/2015/11/05/030650)
+- [ADAGE analysis of publicly available gene expression data collections illuminates Pseudomonas aeruginosa-host interactions](http://msystems.asm.org/mSystems.00025-15-abstract.php)
 - [Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks.](http://biorxiv.org/content/early/2015/10/05/028399)
+- [Deep learning of the tissue-regulated splicing code](http://bioinformatics.oxfordjournals.org/content/30/12/i121.abstract)
+- [Predicting effects of noncoding variants with deep learning–based sequence model](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3547.html)
 - [The human splicing code reveals new insights into the genetic determinants of disease](http://www.sciencemag.org/content/347/6218/1254806.long)
 - [Unsupervised feature construction and knowledge extraction from genome-wide assays of breast cancer with denoising autoencoders](http://www.worldscientific.com/doi/abs/10.1142/9789814644730_0014)
 
@@ -33,6 +35,7 @@ In particular, my interests lie in:
 
 - [A Statistical View of Deep Learning](http://blog.shakirm.com/wp-content/uploads/2015/07/SVDL.pdf)
 - [Autoencoders, Unsupervised Learning, and Deep Architectures](http://jmlr.csail.mit.edu/proceedings/papers/v27/baldi12a/baldi12a.pdf)
+- [Deep Convolutional Networks on Graph-Structured Data](http://arxiv.org/abs/1506.05163)
 - [Deep rectifier sparse neural networks](http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf)
 - [Deep Learning with Nonparametric Clustering](http://arxiv.org/abs/1501.03084)
 - [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](http://arxiv.org/abs/1511.07289)
