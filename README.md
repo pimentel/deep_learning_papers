@@ -21,6 +21,7 @@ In particular, my interests lie in:
 
 - [A Statistical View of Deep Learning](http://blog.shakirm.com/2015/01/a-statistical-view-of-deep-learning-i-recursive-glms/)
 - [colah's blog](http://colah.github.io/)
+- [Andrej Karpathy](http://karpathy.github.io/)
 
 ## functional annotation
 
@@ -41,3 +42,17 @@ In particular, my interests lie in:
 - [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](http://arxiv.org/abs/1511.07289)
 - [k-Sparse Autoencoders](http://arxiv.org/pdf/1312.5663v2.pdf)
 - [Rectified Linear Units Improve Restricted Boltzmann Machines](http://www.cs.toronto.edu/~fritz/absps/reluICML.pdf)
+
+## regularization
+- [Stochastic Pooling for Regularization of Deep Convolutional Neural Networks](http://arxiv.org/abs/1301.3557)
+- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://jmlr.org/proceedings/papers/v37/ioffe15.pdf)
+- [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://arxiv.org/abs/1506.02142)
+
+## interpretation
+- [Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1311.2901)
+- [Understanding Neural Networks Through Deep Visualization](http://arxiv.org/abs/1506.06579)
+
+## uber deep
+- [Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842)
+- [Very Deep Convolutional Networks for Large-Scale Image Recognition](http://arxiv.org/abs/1409.1556)
